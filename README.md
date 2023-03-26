@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pak0426/pak0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=Waving&text=BongBong's%20github&fontColor=484E56)
+
 ![pak0426's github stats](https://github-readme-stats.vercel.app/api?username=pak0426&show_icons=true)
+
