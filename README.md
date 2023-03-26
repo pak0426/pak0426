@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=hmmini's%20github&fontColor=FFFFFF&fontSize=40&fontAlignY=20&&color=34862E)
+  
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=hmmini's%20github&fontColor=484E56)
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
-![pak0426's github stats](https://github-readme-stats.vercel.app/api?username=pak0426&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pak0426&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
