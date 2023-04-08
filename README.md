@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-<h3 align="center">💻Once I've Used💻</h3>
+<h3 align="center">💻My Skills💻</h3>
   
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  
