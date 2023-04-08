@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pak0426&show_icons=true&bg_color=000000006&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pak0426&bg_color=000000006&layout=compact&theme=vue)
   
 </div>
 
