@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&text=hmmini's%20github&fontColor=FFFFFF&fontSize=40&fontAlignY=27&&color=34862E&animation=twinkling)
+
+[![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=34862E&text=hmmini's%20Github&height=150&fontSize=55&desc=Please%20take%20care%20of%20me&descAlignY=75&descAlign=70)](https://github.com/pak0426)
+
+[<img src="https://raw.githubusercontent.com/pak0426/pak0426/main/waves.svg" width="100%" height="150">](https://github.com/pak0426)
 
 </div>
 
