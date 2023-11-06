@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=34862E&text=hmmini's%20Github&height=150&fontSize=55&desc=Please%20take%20care%20of%20me&descAlignY=75&descAlign=70)](https://github.com/pak0426)
+[![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=34862E&text=hmmini's%20Github&height=150&fontSize=55&desc=Stay%20strong!&descAlignY=75&descAlign=70)](https://github.com/pak0426)
 
 [<img src="https://raw.githubusercontent.com/pak0426/pak0426/main/waves.svg" width="100%" height="150">](https://github.com/pak0426)
 
