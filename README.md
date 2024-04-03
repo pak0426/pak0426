@@ -1,5 +1,4 @@
 
-
 <!--
 **pak0426/pak0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +18,8 @@ Here are some ideas to get you started:
 [![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=34862E&text=hmmini's%20Github&height=150&fontSize=55&desc=Stay%20strong!&descAlignY=75&descAlign=70)](https://github.com/pak0426)
 
 [<img src="https://raw.githubusercontent.com/pak0426/pak0426/main/waves.svg" width="100%" height="150">](https://github.com/pak0426)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpak0426&count_bg=%235BEB0B&title_bg=%23847D7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
