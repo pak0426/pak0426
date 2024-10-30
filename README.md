@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">  
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33FF?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-20336B?style=for-the-badge&logo=JPA&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-D22128?style=for-the-badge&logo=MyBatis&logoColor=white">
+
   
   <br>
   
@@ -54,18 +57,33 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redis-0769AD?style=for-the-badge&logo=Redis&logoColor=white">
   
   <br>
+
+  <img src="https://img.shields.io/badge/jenkins-4479A1?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/githubAction-F80000?style=for-the-badge&logo=github-action&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/k8s-007ACC?style=for-the-badge&logo=k8s&logoColor=white">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/kafka-003545?style=for-the-badge&logo=kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Aws-F7DF1E?style=for-the-badge&logo=AWs&logoColor=white">
+  <img src="https://img.shields.io/badge/NCP-0769AD?style=for-the-badge&logo=NCP&logoColor=white">
+
+  <br>
   
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
   <br><br>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=pak4184)](https://velog.io/@pak4184) 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pak4184)](https://github.com/eungyeole/velog-readme-stats)
+
+  
+
 </div>
 
 
