@@ -1,45 +1,53 @@
+안녕하세요, 백엔드 개발자 박현민입니다 👋
 
-<!--
-**pak0426/pak0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-
-[![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=34862E&text=hmmini's%20Github&height=150&fontSize=55&desc=Stay%20strong!&descAlignY=75&descAlign=70)](https://github.com/pak0426)
-
-[<img src="https://raw.githubusercontent.com/pak0426/pak0426/main/waves.svg" width="100%" height="150">](https://github.com/pak0426)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpak0426&count_bg=%235BEB0B&title_bg=%23847D7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-
-<h3 align="center"> My Github Stats </h3>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pak0426&show_icons=true&bg_color=000000006&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pak0426&bg_color=000000006&layout=compact&theme=vue)
-  
-</div>
+Java & Spring 기반 서버 개발자로, 성능 개선과 클린 아키텍처를 즐깁니다.
+<br>
+객체의 역할과 책임을 고민하며 작은 단위로 나누고 분리하여 개선하는 과정을 좋아합니다.
 
 <br>
 
-<div align="center"> 
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pak4184)](https://github.com/eungyeole/velog-readme-stats)
-  
+## 🛠 Tech Stack
 
-</div>
+**Backend**
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+![Spring Data JDBC](https://img.shields.io/badge/Spring_Data_JDBC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
+**Database**
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infra / DevOps**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<br>
+
+## 💡 Interests
+
+- ⚙️ 리팩토링 & 클린 아키텍처
+- 📈 쿼리 성능 튜닝 & 대용량 데이터 처리
+- 🔒 동시성 제어 & 분산 시스템 설계
+
+<br>
+
+## 🏅 Certifications
+
+- 정보처리기사 (2024.06)
+- SQLD (2022.03)
+
+<br>
+
+## 📬 Contact
+
+- pak4184@naver.com
